@@ -1,5 +1,11 @@
 <?php
-
+/**
+ * @package     Joomla.Plugin
+ * @subpackage  Captcha.SimpleCaptcha
+ *
+ * @copyright   Copyright (C) 2013 Artur Stępień, Inc. All rights reserved.
+ * @license     GNU General Public License version 3 or later; see LICENSE
+ */
 defined('_JEXEC') or die;
 
 

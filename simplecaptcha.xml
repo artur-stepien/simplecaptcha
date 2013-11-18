@@ -7,7 +7,7 @@
 	<authorEmail>artur.stepien@bestproject.pl</authorEmail>
 	<authorUrl>www.bestproject.pl</authorUrl>
 	<copyright>Copyright (C) 2013 Stępień Artur. All rights reserved.</copyright>
-	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<license>GNU General Public License version 3 or later; see LICENSE.txt</license>
 	<description>PLG_CAPTCHA_SIMPLECAPTCHA_XML_DESCRIPTION</description>
 	
 	<files>
