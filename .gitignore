@@ -1,0 +1,15 @@
+/*
+!/plugins/
+/plugins/*
+!/plugins/captcha/
+/plugins/captcha/*
+!/plugins/captcha/bpcaptcha/
+!/plugins/captcha/bpcaptcha/*
+
+
+!/LICENSE
+!/README.md
+!/build.xml
+!/composer.json
+!/composer.lock
+!/.gitignore

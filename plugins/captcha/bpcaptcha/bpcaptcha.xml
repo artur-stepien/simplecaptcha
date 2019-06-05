@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.9" type="plugin" group="captcha" method="upgrade">
+	<name>plg_captcha_bpcaptcha</name>
+	<version>${build.version}</version>
+	<creationDate>${build.date}</creationDate>
+	<author>${author.name}</author>
+	<authorEmail>${author.email}</authorEmail>
+	<authorUrl>${author.url}</authorUrl>
+	<copyright>Copyright (C) ${build.year} ${copyrights}. All rights reserved.</copyright>
+	<license>${license.name}, see ${license.url}</license>
+	<description>PLG_CAPTCHA_BPCAPTCHA_XML_DESCRIPTION</description>
+	
+	<files>
+		<filename plugin="bpcaptcha">bpcaptcha.php</filename>
+		<folder>layouts</folder>
+	</files>
+	
+	<languages folder="language">
+		<language tag="pl-PL">pl-PL/pl-PL.plg_captcha_bpcaptcha.ini</language>
+		<language tag="pl-PL">pl-PL/pl-PL.plg_captcha_bpcaptcha.sys.ini</language>
+		<language tag="en-GB">en-GB/en-GB.plg_captcha_bpcaptcha.ini</language>
+		<language tag="en-GB">en-GB/en-GB.plg_captcha_bpcaptcha.sys.ini</language>
+	</languages>
+	
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+
+			</fieldset>
+		</fields>
+	</config>
+	
+</extension>
